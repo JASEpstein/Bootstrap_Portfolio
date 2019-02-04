@@ -156,6 +156,7 @@ input {
 
 .headshot {
     float: left;
+    margin-right: 13px;
 }
 
 .aboutcontent p {
