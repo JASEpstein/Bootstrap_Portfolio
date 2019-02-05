@@ -144,7 +144,7 @@ input {
     width: 920px;
 }
 
-.submitButton {
+#submitButton {
     width: 70px;
     background: #4aaaa5;
     color: #ffffff;
